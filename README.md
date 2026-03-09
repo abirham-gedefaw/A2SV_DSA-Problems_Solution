@@ -6,6 +6,7 @@ A2SV | DSA Solutions Repository
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0414-third-maximum-number) |
@@ -17,6 +18,7 @@ A2SV | DSA Solutions Repository
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0088-merge-sorted-array) |
 | [0443-string-compression](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0443-string-compression) |
@@ -35,6 +37,7 @@ A2SV | DSA Solutions Repository
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0455-assign-cookies) |
