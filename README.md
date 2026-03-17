@@ -14,6 +14,7 @@ A2SV | DSA Solutions Repository
 | [0643-maximum-average-subarray-i](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0986-interval-list-intersections](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0986-interval-list-intersections) |
 | [1089-duplicate-zeros](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1089-duplicate-zeros) |
+| [1480-running-sum-of-1d-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -83,4 +84,8 @@ A2SV | DSA Solutions Repository
 | [0076-minimum-window-substring](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0643-maximum-average-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
