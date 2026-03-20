@@ -18,6 +18,7 @@ A2SV | DSA Solutions Repository
 | [0724-find-pivot-index](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0724-find-pivot-index) |
 | [0986-interval-list-intersections](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0986-interval-list-intersections) |
 | [1089-duplicate-zeros](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1089-duplicate-zeros) |
+| [1248-count-number-of-nice-subarrays](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -64,6 +65,7 @@ A2SV | DSA Solutions Repository
 | [0076-minimum-window-substring](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1248-count-number-of-nice-subarrays](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## String
@@ -92,12 +94,14 @@ A2SV | DSA Solutions Repository
 | [0424-longest-repeating-character-replacement](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0643-maximum-average-subarray-i) |
+| [1248-count-number-of-nice-subarrays](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1248-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0724-find-pivot-index) |
+| [1248-count-number-of-nice-subarrays](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1480-running-sum-of-1d-array) |
 ## Design
 |  |
@@ -107,4 +111,8 @@ A2SV | DSA Solutions Repository
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0506-relative-ranks) |
+## Math
+|  |
+| ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
