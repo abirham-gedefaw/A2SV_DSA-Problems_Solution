@@ -23,6 +23,7 @@ A2SV | DSA Solutions Repository
 | [1480-running-sum-of-1d-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
@@ -69,6 +70,7 @@ A2SV | DSA Solutions Repository
 | [0904-fruit-into-baskets](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
@@ -98,6 +100,7 @@ A2SV | DSA Solutions Repository
 | [0643-maximum-average-subarray-i](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1248-count-number-of-nice-subarrays) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
