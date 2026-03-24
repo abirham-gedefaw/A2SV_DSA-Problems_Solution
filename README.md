@@ -90,6 +90,7 @@ A2SV | DSA Solutions Repository
 | [0438-find-all-anagrams-in-a-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0567-permutation-in-string) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Binary Search
@@ -111,6 +112,7 @@ A2SV | DSA Solutions Repository
 | [0643-maximum-average-subarray-i](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0904-fruit-into-baskets) |
 | [0978-longest-turbulent-subarray](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0978-longest-turbulent-subarray) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
