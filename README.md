@@ -37,6 +37,7 @@ A2SV | DSA Solutions Repository
 | [0125-valid-palindrome](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0567-permutation-in-string) |
 | [0986-interval-list-intersections](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0986-interval-list-intersections) |
 | [1089-duplicate-zeros](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1089-duplicate-zeros) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -69,6 +70,7 @@ A2SV | DSA Solutions Repository
 | [0076-minimum-window-substring](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -84,6 +86,7 @@ A2SV | DSA Solutions Repository
 | [0424-longest-repeating-character-replacement](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Binary Search
@@ -101,6 +104,7 @@ A2SV | DSA Solutions Repository
 | [0076-minimum-window-substring](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1248-count-number-of-nice-subarrays) |
