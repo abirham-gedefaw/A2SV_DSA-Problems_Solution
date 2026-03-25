@@ -17,6 +17,7 @@ A2SV | DSA Solutions Repository
 | [0506-relative-ranks](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0724-find-pivot-index) |
+| [0881-boats-to-save-people](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0904-fruit-into-baskets) |
 | [0978-longest-turbulent-subarray](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0978-longest-turbulent-subarray) |
 | [0986-interval-list-intersections](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0986-interval-list-intersections) |
@@ -44,6 +45,7 @@ A2SV | DSA Solutions Repository
 | [0443-string-compression](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0567-permutation-in-string) |
+| [0881-boats-to-save-people](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0881-boats-to-save-people) |
 | [0986-interval-list-intersections](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0986-interval-list-intersections) |
 | [1089-duplicate-zeros](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1089-duplicate-zeros) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -56,6 +58,7 @@ A2SV | DSA Solutions Repository
 | ------- |
 | [0011-container-with-most-water](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0881-boats-to-save-people) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Sorting
@@ -66,6 +69,7 @@ A2SV | DSA Solutions Repository
 | [0414-third-maximum-number](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0506-relative-ranks) |
+| [0881-boats-to-save-people](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2491-divide-players-into-teams-of-equal-skill) |
