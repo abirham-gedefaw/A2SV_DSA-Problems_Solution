@@ -16,6 +16,7 @@ A2SV | DSA Solutions Repository
 | [0414-third-maximum-number](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0506-relative-ranks) |
+| [0523-continuous-subarray-sum](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0523-continuous-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0881-boats-to-save-people) |
@@ -84,6 +85,7 @@ A2SV | DSA Solutions Repository
 | [0424-longest-repeating-character-replacement](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1248-count-number-of-nice-subarrays) |
@@ -142,6 +144,7 @@ A2SV | DSA Solutions Repository
 | [0238-product-of-array-except-self](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0304-range-sum-query-2d-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -160,6 +163,7 @@ A2SV | DSA Solutions Repository
 ## Math
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1248-count-number-of-nice-subarrays) |
 ## Dynamic Programming
 |  |
