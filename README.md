@@ -12,6 +12,7 @@ A2SV | DSA Solutions Repository
 | [0088-merge-sorted-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0414-third-maximum-number](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0506-relative-ranks) |
@@ -140,6 +141,7 @@ A2SV | DSA Solutions Repository
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -149,6 +151,7 @@ A2SV | DSA Solutions Repository
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0304-range-sum-query-2d-immutable) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -170,4 +173,8 @@ A2SV | DSA Solutions Repository
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0451-sort-characters-by-frequency) |
+## Matrix
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
