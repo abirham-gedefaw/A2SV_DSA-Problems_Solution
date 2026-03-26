@@ -47,6 +47,7 @@ A2SV | DSA Solutions Repository
 | [0443-string-compression](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0881-boats-to-save-people) |
 | [0986-interval-list-intersections](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0986-interval-list-intersections) |
 | [1089-duplicate-zeros](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1089-duplicate-zeros) |
@@ -113,6 +114,7 @@ A2SV | DSA Solutions Repository
 ## Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0633-sum-of-square-numbers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sweep Line
 |  |
@@ -164,6 +166,7 @@ A2SV | DSA Solutions Repository
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0633-sum-of-square-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1248-count-number-of-nice-subarrays) |
 ## Dynamic Programming
 |  |
