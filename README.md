@@ -113,6 +113,7 @@ A2SV | DSA Solutions Repository
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2381-shifting-letters-ii](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2381-shifting-letters-ii) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2730-find-the-longest-semi-repetitive-substring](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 ## Binary Search
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A2SV | DSA Solutions Repository
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2730-find-the-longest-semi-repetitive-substring](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 ## Prefix Sum
 |  |
 | ------- |
