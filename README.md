@@ -10,6 +10,7 @@ A2SV | DSA Solutions Repository
 | [0015-3sum](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0304-range-sum-query-2d-immutable) |
@@ -44,6 +45,7 @@ A2SV | DSA Solutions Repository
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0567-permutation-in-string) |
@@ -165,6 +167,7 @@ A2SV | DSA Solutions Repository
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0633-sum-of-square-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1248-count-number-of-nice-subarrays) |
