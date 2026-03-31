@@ -9,6 +9,7 @@ A2SV | DSA Solutions Repository
 | [0011-container-with-most-water](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0189-rotate-array) |
@@ -46,6 +47,7 @@ A2SV | DSA Solutions Repository
 | [0011-container-with-most-water](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0125-valid-palindrome) |
