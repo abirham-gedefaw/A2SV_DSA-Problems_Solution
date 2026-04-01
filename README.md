@@ -209,5 +209,10 @@ A2SV | DSA Solutions Repository
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0707-design-linked-list](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0707-design-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
