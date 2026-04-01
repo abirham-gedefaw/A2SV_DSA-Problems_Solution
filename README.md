@@ -177,6 +177,7 @@ A2SV | DSA Solutions Repository
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0304-range-sum-query-2d-immutable) |
+| [0707-design-linked-list](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0707-design-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -205,4 +206,8 @@ A2SV | DSA Solutions Repository
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0304-range-sum-query-2d-immutable) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
