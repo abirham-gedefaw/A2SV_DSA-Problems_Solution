@@ -22,13 +22,15 @@ class Solution:
             curr = temp
 
         left, right = head, reverse_half
+        isPalindrome = True
         while right:
             if left.val != right.val:
-                return False
-                
+                isPalindrome = False   
             left = left.next
             right = right.next
+
         # before return the result restoring the orginal list is vital.
+
         restore = None
         curr = reverse_half
         while curr:
@@ -36,7 +38,7 @@ class Solution:
             curr.next = restore
             restore = curr
             curr = temp
-        return True
+        return isPalindrome
 
 
 
