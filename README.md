@@ -109,6 +109,7 @@ A2SV | DSA Solutions Repository
 | [0138-copy-list-with-random-pointer](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0451-sort-characters-by-frequency) |
@@ -188,6 +189,7 @@ A2SV | DSA Solutions Repository
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0707-design-linked-list](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0707-design-linked-list) |
@@ -233,6 +235,7 @@ A2SV | DSA Solutions Repository
 | [0138-copy-list-with-random-pointer](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0234-palindrome-linked-list) |
@@ -250,4 +253,8 @@ A2SV | DSA Solutions Repository
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0234-palindrome-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
