@@ -106,6 +106,7 @@ A2SV | DSA Solutions Repository
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0076-minimum-window-substring) |
+| [0138-copy-list-with-random-pointer](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0424-longest-repeating-character-replacement) |
@@ -229,6 +230,7 @@ A2SV | DSA Solutions Repository
 | [0083-remove-duplicates-from-sorted-list](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0203-remove-linked-list-elements) |
