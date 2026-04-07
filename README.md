@@ -195,6 +195,7 @@ A2SV | DSA Solutions Repository
 | [0303-range-sum-query-immutable](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0707-design-linked-list](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0707-design-linked-list) |
+| [0933-number-of-recent-calls](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0933-number-of-recent-calls) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -268,4 +269,12 @@ A2SV | DSA Solutions Repository
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2390-removing-stars-from-a-string) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
