@@ -139,6 +139,7 @@ A2SV | DSA Solutions Repository
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2381-shifting-letters-ii](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2381-shifting-letters-ii) |
+| [2390-removing-stars-from-a-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 ## Binary Search
@@ -256,8 +257,13 @@ A2SV | DSA Solutions Repository
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0234-palindrome-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2390-removing-stars-from-a-string) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0146-lru-cache) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
