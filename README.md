@@ -127,6 +127,7 @@ A2SV | DSA Solutions Repository
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0424-longest-repeating-character-replacement) |
@@ -256,6 +257,7 @@ A2SV | DSA Solutions Repository
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0234-palindrome-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2390-removing-stars-from-a-string) |
 ## Doubly-Linked List
