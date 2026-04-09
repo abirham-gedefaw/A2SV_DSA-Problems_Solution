@@ -11,6 +11,7 @@ A2SV | DSA Solutions Repository
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0238-product-of-array-except-self) |
@@ -267,6 +268,7 @@ A2SV | DSA Solutions Repository
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0739-daily-temperatures) |
@@ -294,6 +296,7 @@ A2SV | DSA Solutions Repository
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
