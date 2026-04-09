@@ -39,6 +39,7 @@ A2SV | DSA Solutions Repository
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2073-time-needed-to-buy-tickets](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2073-time-needed-to-buy-tickets) |
 | [2090-k-radius-subarray-averages](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2090-k-radius-subarray-averages) |
 | [2381-shifting-letters-ii](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2381-shifting-letters-ii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -276,11 +277,13 @@ A2SV | DSA Solutions Repository
 ## Simulation
 |  |
 | ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2390-removing-stars-from-a-string) |
 ## Queue
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0933-number-of-recent-calls) |
+| [2073-time-needed-to-buy-tickets](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
 | ------- |
