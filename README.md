@@ -251,6 +251,7 @@ A2SV | DSA Solutions Repository
 | [0203-remove-linked-list-elements](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0234-palindrome-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0707-design-linked-list](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0876-middle-of-the-linked-list) |
@@ -279,6 +280,7 @@ A2SV | DSA Solutions Repository
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0146-lru-cache) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -299,4 +301,8 @@ A2SV | DSA Solutions Repository
 | [0084-largest-rectangle-in-histogram](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0739-daily-temperatures) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
