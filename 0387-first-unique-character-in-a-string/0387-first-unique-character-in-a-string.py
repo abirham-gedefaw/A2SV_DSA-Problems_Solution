@@ -1,11 +1,10 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int:
-        hash_map = {}
-
+        count = [0]*26
         for char in s:
-            hash_map[char] = hash_map.get(char, 0) + 1
-        for i in range(len(s)):
-            if hash_map[s[i]] == 1:
+            count[ord(char) - ord('a')] += 1
+        for i, char in enumerate(s):
+            if count[ord(char) - ord('a')] == 1:
                 return i
         return -1
         
