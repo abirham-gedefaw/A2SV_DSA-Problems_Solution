@@ -116,6 +116,7 @@ A2SV | DSA Solutions Repository
 | [0141-linked-list-cycle](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0146-lru-cache) |
+| [0387-first-unique-character-in-a-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0451-sort-characters-by-frequency) |
@@ -138,6 +139,7 @@ A2SV | DSA Solutions Repository
 | [0020-valid-parentheses](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0443-string-compression) |
@@ -230,6 +232,7 @@ A2SV | DSA Solutions Repository
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0451-sort-characters-by-frequency) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Matrix
@@ -292,6 +295,7 @@ A2SV | DSA Solutions Repository
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2073-time-needed-to-buy-tickets) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
