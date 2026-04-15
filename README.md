@@ -14,6 +14,7 @@ A2SV | DSA Solutions Repository
 | [0084-largest-rectangle-in-histogram](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0303-range-sum-query-immutable) |
@@ -232,6 +233,7 @@ A2SV | DSA Solutions Repository
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0509-fibonacci-number) |
 | [0978-longest-turbulent-subarray](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0978-longest-turbulent-subarray) |
 ## Bucket Sort
