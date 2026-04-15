@@ -221,6 +221,7 @@ A2SV | DSA Solutions Repository
 | [0002-add-two-numbers](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0633-sum-of-square-numbers) |
@@ -277,6 +278,7 @@ A2SV | DSA Solutions Repository
 | [0206-reverse-linked-list](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
@@ -325,4 +327,8 @@ A2SV | DSA Solutions Repository
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
