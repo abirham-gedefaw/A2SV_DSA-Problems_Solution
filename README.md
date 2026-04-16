@@ -22,6 +22,7 @@ A2SV | DSA Solutions Repository
 | [0414-third-maximum-number](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0523-continuous-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0643-maximum-average-subarray-i) |
@@ -297,6 +298,7 @@ A2SV | DSA Solutions Repository
 | [0234-palindrome-linked-list](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0739-daily-temperatures) |
 | [1598-crawler-log-folder](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1598-crawler-log-folder) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -329,6 +331,7 @@ A2SV | DSA Solutions Repository
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0739-daily-temperatures) |
 ## Depth-First Search
 |  |
