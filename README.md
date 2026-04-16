@@ -35,6 +35,7 @@ A2SV | DSA Solutions Repository
 | [1109-corporate-flight-bookings](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1480-running-sum-of-1d-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1598-crawler-log-folder](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1598-crawler-log-folder) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -183,6 +184,7 @@ A2SV | DSA Solutions Repository
 | [1234-replace-the-substring-for-balanced-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1695-maximum-erasure-value) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -218,6 +220,7 @@ A2SV | DSA Solutions Repository
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0506-relative-ranks) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Math
 |  |
 | ------- |
@@ -313,6 +316,7 @@ A2SV | DSA Solutions Repository
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0933-number-of-recent-calls) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2073-time-needed-to-buy-tickets](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2073-time-needed-to-buy-tickets) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Data Stream
@@ -338,4 +342,12 @@ A2SV | DSA Solutions Repository
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0342-power-of-four) |
+## Ordered Set
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
