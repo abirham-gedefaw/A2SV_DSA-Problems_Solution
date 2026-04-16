@@ -42,6 +42,7 @@ A2SV | DSA Solutions Repository
 | [1598-crawler-log-folder](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1598-crawler-log-folder) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1695-maximum-erasure-value) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -235,6 +236,7 @@ A2SV | DSA Solutions Repository
 | [0523-continuous-subarray-sum](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0633-sum-of-square-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1248-count-number-of-nice-subarrays) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A2SV | DSA Solutions Repository
 | [0342-power-of-four](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
 | ------- |
@@ -314,6 +317,7 @@ A2SV | DSA Solutions Repository
 ## Simulation
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2390-removing-stars-from-a-string) |
 ## Queue
@@ -322,6 +326,7 @@ A2SV | DSA Solutions Repository
 | [0387-first-unique-character-in-a-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2073-time-needed-to-buy-tickets) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Data Stream
