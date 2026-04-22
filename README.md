@@ -166,6 +166,7 @@ A2SV | DSA Solutions Repository
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0633-sum-of-square-numbers) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -361,4 +362,8 @@ A2SV | DSA Solutions Repository
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
