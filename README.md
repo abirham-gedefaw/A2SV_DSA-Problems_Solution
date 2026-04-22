@@ -166,6 +166,7 @@ A2SV | DSA Solutions Repository
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0633-sum-of-square-numbers) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -229,6 +230,7 @@ A2SV | DSA Solutions Repository
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0326-power-of-three) |
