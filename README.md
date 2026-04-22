@@ -17,6 +17,7 @@ A2SV | DSA Solutions Repository
 | [0118-pascals-triangle](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0303-range-sum-query-immutable) |
@@ -169,6 +170,7 @@ A2SV | DSA Solutions Repository
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0633-sum-of-square-numbers) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
