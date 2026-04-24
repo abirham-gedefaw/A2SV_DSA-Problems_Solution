@@ -176,6 +176,7 @@ A2SV | DSA Solutions Repository
 | [0069-sqrtx](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0875-koko-eating-bananas) |
@@ -378,4 +379,5 @@ A2SV | DSA Solutions Repository
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
