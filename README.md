@@ -12,6 +12,7 @@ A2SV | DSA Solutions Repository
 | [0027-remove-element](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0088-merge-sorted-array) |
@@ -175,6 +176,7 @@ A2SV | DSA Solutions Repository
 | [0033-search-in-rotated-sorted-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0374-guess-number-higher-or-lower) |
@@ -273,6 +275,7 @@ A2SV | DSA Solutions Repository
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0304-range-sum-query-2d-immutable) |
 ## Linked List
 |  |
