@@ -39,6 +39,7 @@ A2SV | DSA Solutions Repository
 | [0904-fruit-into-baskets](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0904-fruit-into-baskets) |
 | [0978-longest-turbulent-subarray](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0978-longest-turbulent-subarray) |
 | [0986-interval-list-intersections](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0986-interval-list-intersections) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1089-duplicate-zeros) |
 | [1109-corporate-flight-bookings](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1248-count-number-of-nice-subarrays) |
@@ -183,6 +184,7 @@ A2SV | DSA Solutions Repository
 | [0633-sum-of-square-numbers](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
