@@ -327,6 +327,7 @@ A2SV | DSA Solutions Repository
 | ------- |
 | [0020-valid-parentheses](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0234-palindrome-linked-list) |
@@ -372,6 +373,7 @@ A2SV | DSA Solutions Repository
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Memoization
@@ -399,9 +401,11 @@ A2SV | DSA Solutions Repository
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
