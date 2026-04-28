@@ -182,6 +182,7 @@ A2SV | DSA Solutions Repository
 | [0162-find-peak-element](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0875-koko-eating-bananas) |
@@ -254,6 +255,7 @@ A2SV | DSA Solutions Repository
 | [0241-different-ways-to-add-parentheses](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0342-power-of-four) |
+| [0441-arranging-coins](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0633-sum-of-square-numbers) |
