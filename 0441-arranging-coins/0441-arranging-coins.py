@@ -3,10 +3,10 @@ class Solution:
         left, right = 1, n
         while left <= right:
             mid = left +(right - left) // 2
-            coins = mid * (mid + 1) // 2
-            if coins == n:
+            k_rows = mid * (mid + 1) // 2
+            if k_rows == n:
                 return mid
-            elif coins > n:
+            elif k_rows > n:
                 right = mid - 1
             else:
                 left = mid + 1
