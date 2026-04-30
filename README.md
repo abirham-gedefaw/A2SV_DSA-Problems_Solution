@@ -31,6 +31,7 @@ A2SV | DSA Solutions Repository
 | [0506-relative-ranks](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0523-continuous-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -84,6 +85,7 @@ A2SV | DSA Solutions Repository
 | [0455-assign-cookies](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0881-boats-to-save-people) |
@@ -115,6 +117,7 @@ A2SV | DSA Solutions Repository
 | [0451-sort-characters-by-frequency](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -184,6 +187,7 @@ A2SV | DSA Solutions Repository
 | [0374-guess-number-higher-or-lower](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -203,6 +207,7 @@ A2SV | DSA Solutions Repository
 | [0438-find-all-anagrams-in-a-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0904-fruit-into-baskets) |
 | [0978-longest-turbulent-subarray](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0978-longest-turbulent-subarray) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1234-replace-the-substring-for-balanced-string) |
@@ -244,6 +249,7 @@ A2SV | DSA Solutions Repository
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0658-find-k-closest-elements) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Math
 |  |
