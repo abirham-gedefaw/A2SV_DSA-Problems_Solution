@@ -32,6 +32,7 @@ A2SV | DSA Solutions Repository
 | [0523-continuous-subarray-sum](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0523-continuous-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0658-find-k-closest-elements) |
+| [0713-subarray-product-less-than-k](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -188,6 +189,7 @@ A2SV | DSA Solutions Repository
 | [0441-arranging-coins](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0658-find-k-closest-elements) |
+| [0713-subarray-product-less-than-k](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -208,6 +210,7 @@ A2SV | DSA Solutions Repository
 | [0567-permutation-in-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0658-find-k-closest-elements) |
+| [0713-subarray-product-less-than-k](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0904-fruit-into-baskets) |
 | [0978-longest-turbulent-subarray](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0978-longest-turbulent-subarray) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1234-replace-the-substring-for-balanced-string) |
@@ -229,6 +232,7 @@ A2SV | DSA Solutions Repository
 | [0303-range-sum-query-immutable](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0523-continuous-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0724-find-pivot-index) |
 | [1109-corporate-flight-bookings](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1248-count-number-of-nice-subarrays) |
