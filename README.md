@@ -34,6 +34,7 @@ A2SV | DSA Solutions Repository
 | [0658-find-k-closest-elements](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0875-koko-eating-bananas) |
@@ -345,6 +346,7 @@ A2SV | DSA Solutions Repository
 | [0394-decode-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0739-daily-temperatures) |
 | [1598-crawler-log-folder](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1598-crawler-log-folder) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -357,6 +359,7 @@ A2SV | DSA Solutions Repository
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/0735-asteroid-collision) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/abirham-gedefaw/A2SV_DSA-Problems_Solution/tree/master/2390-removing-stars-from-a-string) |
